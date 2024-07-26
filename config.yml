@@ -1,0 +1,20 @@
+#
+#  Configuration file for BitWave Bio
+#     https://github.com/BitWaveOrg
+#           https://five.bio
+#
+
+user_firstname: 'Zlaté Lipky' # Username shown on profile (Required)
+userbio: 'Vývoj restauračního softwaru' # Profile description (Required)
+
+linkedin_login: '' # LinkedIn login (Optional)
+telegram_login: '' # Telegram login (Optional)
+discords_login: '' # DiscordS login (Optional)
+steam_login: '' # SteamCommunity ID (Optional)
+instagram_login: 'zlatelipky.cz' # Instagram login (Optional)
+twitter_login: '' # Twitter login (Optional)
+website_url: 'https://zlatelipky.cz' # Website url (Optional)
+cv_url: '' # CV URL (Optional)
+
+profile_theme: 'dark' # Profile style
+profile_color: 'rgb(0,0,0)' # Profile border color
